@@ -1,23 +1,23 @@
-	<!-- Inicio Sección - Pie de Página -->
-	<!-- Inicio Seccion - Barra Menu Pie de Página -->
+	<!-- Inicio SecciÃ³n - Pie de PÃ¡gina -->
+	<!-- Inicio Seccion - Barra Menu Pie de PÃ¡gina -->
 	<table class="barraPie">
 		<tr>
 			<td align="center">
-				Acerca de | Ayuda | Hacer Recomendación | Reportar Problema|
+				Acerca de | Ayuda | Hacer RecomendaciÃ³n | Reportar Problema|
 
 			</td>
 		</tr>
 	</table>
-	<!-- Fin Seccion - Barra Menu Pie de Página -->	
+	<!-- Fin Seccion - Barra Menu Pie de PÃ¡gina -->	
 	
 	<table class="barraDerechos">
 		<tr>
 			<td align="center">
-				Copyright © 2014. AAABBBCCCDD     Todos los derechos reservados.
-				<br> --- ---| --- ---| --- ---
-				<br> 29 De Enero de 2014
+				Copyright Â© 2014. LGSRWA    Todos los derechos reservados.
+				<br> Lilians | Guadalupe| Stephani|RenÃ©| Williams|Antonio
+				<br> 02 De Marzo de 2016
 			</td>
 		</tr>						
 	</table>
 	
-	<!-- Fin de Sección - Pie de página -->
+	<!-- Fin de SecciÃ³n - Pie de pÃ¡gina -->
