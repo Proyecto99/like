@@ -2,9 +2,11 @@
 	<!-- IS: Encabezado de Pagina (Banner) -->
 	<table class="barraBanner">
 		<tr>
-				<td>IDS 8tavo</td>
-				<td align="center" width="100%">Administrador de personal</td>
-				<td>UJS</td>
+		         	<td width="24%"><img src="../../../images/UP.jpg" width="175" height="157" /></td>
+				<td align="center" width="47%"><h1><span class="Estilo1">Universidad Politécnica de Chiapas</span></h1></td>
+				<td width="29%">
+				<img src="../../../images/21.jpg" />			
+				</td>
 		</tr>
 
 	</table>
